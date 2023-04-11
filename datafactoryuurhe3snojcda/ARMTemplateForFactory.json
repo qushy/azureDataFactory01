@@ -189,7 +189,7 @@
 						"typeProperties": {
 							"notebookPath": "/Shared/adftutorial/mynotebook",
 							"baseParameters": {
-								"name": {
+								"input": {
 									"value": "@pipeline().parameters.name",
 									"type": "Expression"
 								}
