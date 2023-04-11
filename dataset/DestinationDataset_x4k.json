@@ -1,0 +1,19 @@
+{
+	"name": "DestinationDataset_x4k",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"folderPath": "output",
+				"container": "afssource"
+			}
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

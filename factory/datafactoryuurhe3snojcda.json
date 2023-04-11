@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryuurhe3snojcda",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "884bcf14-8d66-4455-ba3a-2b7600c2908b",
+		"tenantId": "d392b4b6-d3fd-430a-ac5c-bb2f820a6acb"
+	}
+}
